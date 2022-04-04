@@ -5,6 +5,9 @@ This Python application is a binary classifier and is developed to predict the s
 
 In this program, objective is to build, train, evaluate, and optimize the Neural Network model. It compiles a neural network model; then tests other parameters to determine the values that generate the best Loss and Accuracy. It uses dataset manipulation and trial and error methods to develop best possible predictive model. Optimization techniques are utilized to enhance the data preprocessing and model design.
 
+Total of four (4) iterations of trials and error are performed in pursuit to define best possible model.
+
+`GC_alternatives_neural_networks`
 
 ## Technologies
 
