@@ -64,6 +64,10 @@ The following information evaluates the results of the orginal monels and 2 alte
 
 <img width="774" alt="accuracy scores" src="https://user-images.githubusercontent.com/93550651/161475831-925c1f7b-2994-4c45-b8e3-8dc677c8f2e6.png">
 
+Alternate models results:
+
+<img width="774" alt="alt accuracy scores" src="https://user-images.githubusercontent.com/93550651/161484916-28fff5ca-a616-4199-9afe-c859e391f80e.png">
+
 
 ## Contributors
 
