@@ -7,7 +7,11 @@ In this program, objective is to build, train, evaluate, and optimize the Neural
 
 Total of four (4) iterations of trials and error are performed in pursuit to define best possible model.
 
-`GC_alternatives_neural_networks`
+Notebooks
+
+`GC_venture_funding_with_deep_learning.ipynb`
+
+`GC_alternatives_neural_networks.ipynb`
 
 ## Technologies
 
