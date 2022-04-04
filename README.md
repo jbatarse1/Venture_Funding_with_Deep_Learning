@@ -32,11 +32,14 @@ The following installation must be performed before running the program. It incl
 ### Install the required libraries 
 
 For Window users:
-``TensorFlow 2.0`` and ``Keras``
+
+`TensorFlow 2.0`` and `Keras`
+
 Use the pip install command to install the TensorFlow 2.0 library
+
 `pip install --upgrade tensorflow`
 
-Apple M1 Chip Users
+Apple M1 Chip Users:
 The Apple M1 Chip is not currently compatible with a typical Tensorflow installation, run this app on Google Colab
 
 
@@ -52,9 +55,7 @@ Resources folder contains the following CSV files:
 The following information evaluates the results of the orginal monels and 2 alternate models:
 
 
-
-
-
+<img width="774" alt="accuracy scores" src="https://user-images.githubusercontent.com/93550651/161475831-925c1f7b-2994-4c45-b8e3-8dc677c8f2e6.png">
 
 
 ## Contributors
