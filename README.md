@@ -33,7 +33,7 @@ The following installation must be performed before running the program. It incl
 
 For Window users:
 
-`TensorFlow 2.0`` and `Keras`
+`TensorFlow 2.0` and `Keras`
 
 Use the pip install command to install the TensorFlow 2.0 library
 
